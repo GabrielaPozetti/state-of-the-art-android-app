@@ -1,5 +1,7 @@
 # state-of-the-art-android-app
 
+Guide to sugestion:
+https://developer.android.com/jetpack/guide
  
 MVVM
 Dagger2
@@ -32,3 +34,4 @@ Jetpack Palette for extracting colors from images
 Unit tests to test the application and make it stable and robust
 
 And we will build everything in Kotlin, the shiny new language that Google recommends
+
